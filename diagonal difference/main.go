@@ -1,4 +1,4 @@
-/*This exercise is used to determine the diagonal difference in a square matrix array. [][]int32
+/*This exercise determines the diagonal difference in a square matrix array. [][]int32
 
 Example:
 
@@ -9,7 +9,7 @@ Example:
 1 + 2 + 2 = 5
 7 + 2 + 3 = 12
 
-absolute difference = 5 - 12 = 7 - no negatives
+absolute difference = 5 - 12 = 7 (no negatives)
 
 */
 
