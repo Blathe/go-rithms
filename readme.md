@@ -1,9 +1,9 @@
-GO-RITHMS
+**Go-Rithms**
 
-A collection of algorithm challenges done to help learn Go.
+A collection of algorithms implemented in Go.
 
-Included Algos:
+**Included Algorithms:**
 
-Binary Search
-Diagonal Difference
-Reverse String
+ - Binary Search  
+ - Diagonal Difference  
+ - Reverse String
