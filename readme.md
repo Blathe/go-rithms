@@ -7,3 +7,4 @@ A collection of algorithms implemented in Go.
  - Binary Search  
  - Diagonal Difference  
  - Reverse String
+ - FizzBuzz
