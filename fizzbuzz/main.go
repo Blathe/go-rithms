@@ -16,15 +16,18 @@ func main() {
 	output := ""
 	for i := 1; i <= 1000; i++ {
 
-		if i%3 == 0 && i%5 == 0 {
-			output += "FizzBuzz"
-		} else if i%3 == 0 {
+		if i%3 == 0 {
 			output += "Fizz"
-		} else if i%5 == 0 {
+		}
+
+		if i%5 == 0 {
 			output += "Buzz"
-		} else if output == "" {
+		}
+
+		if output == "" {
 			output = fmt.Sprint(i)
 		}
+
 		fmt.Println(output)
 		output = ""
 	}
