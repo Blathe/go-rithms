@@ -32,3 +32,25 @@ func main() {
 		output = ""
 	}
 }
+
+func FizzBuzzWithMap() {
+
+	output := ""
+
+	rules := map[int]string{
+		3:  "Fizz",
+		5:  "Buzz",
+		7:  "Foo",
+		10: "Bar",
+	}
+
+	for i := 1; i <= 1000; i++ { 
+		switch {
+		case
+		}
+
+
+		fmt.Println(output)
+		output = ""
+	}
+}
